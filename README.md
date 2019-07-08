@@ -8,7 +8,9 @@
 - [ ] Anabelle 3
 - [ ] Lion King
 - [ ] La sirenita
-
+- [ ] La estafa maestra
+- [ ] Ahora son 13
+- [ ] The italian job
 
 ## Places
 - [ ] Bodies
