@@ -4,6 +4,7 @@
 - [ ] Lasagna de Berenjenas
 - [ ] Sushi
 - [ ] Brownies
+- [ ] Martes de visa
 
 ## Movies
 - [ ] Anabelle 3
@@ -14,6 +15,7 @@
 - [ ] The italian job
 - [x] Spiderman Far from Home
 - [ ] Disney day
+- [ ] Apollo 11
 
 ## Places
 - [ ] Bodies
@@ -29,5 +31,4 @@
 ## To do
 - [ ] Rumba padres (Sebas)
 - [ ] Glamping
-- [ ] Martes de visa
 - [ ] Green
