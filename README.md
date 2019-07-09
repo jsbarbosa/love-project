@@ -6,17 +6,24 @@
 
 ## Movies
 - [ ] Anabelle 3
-- [ ] Lion King
+- [ ] The lion King
 - [ ] La sirenita
 - [ ] La estafa maestra
 - [ ] Ahora son 13
 - [ ] The italian job
+- [x] Spiderman Far from Home
+- [ ] Disney day
 
 ## Places
 - [ ] Bodies
 - [ ] Cinemateca Distrital
 - [ ] Monserrate
 - [ ] Bolera San Francisco
+- [x] Café de la montaña
 
 ## To buy
 - [ ] Camping tend
+
+## To do
+- [ ] Rumba padres (Sebas)
+- [ ] Glamping
