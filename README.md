@@ -3,6 +3,7 @@
 ## Food
 - [ ] Lasagna de Berenjenas
 - [ ] Sushi
+- [ ] Brownies
 
 ## Movies
 - [ ] Anabelle 3
@@ -19,7 +20,8 @@
 - [ ] Cinemateca Distrital
 - [ ] Monserrate
 - [ ] Bolera San Francisco
-- [x] Café de la montaña
+- [x] Café de la Montaña
+- [ ] La browniseria 
 
 ## To buy
 - [ ] Camping tend
@@ -27,3 +29,5 @@
 ## To do
 - [ ] Rumba padres (Sebas)
 - [ ] Glamping
+- [ ] Martes de visa
+- [ ] Green
