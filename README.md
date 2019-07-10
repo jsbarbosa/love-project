@@ -16,6 +16,7 @@
 - [x] Spiderman Far from Home
 - [ ] Disney day
 - [ ] Apollo 11
+- [ ] El que se enamora pierde
 
 ## Places
 - [ ] Bodies
