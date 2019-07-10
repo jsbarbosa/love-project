@@ -24,6 +24,7 @@
 - [ ] Bolera San Francisco
 - [x] Café de la Montaña
 - [ ] La browniseria 
+- [ ] Jardín botánico
 
 ## To buy
 - [ ] Camping tend
