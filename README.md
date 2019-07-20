@@ -17,6 +17,7 @@
 - [ ] Disney day
 - [ ] Apollo 11
 - [ ] El que se enamora pierde
+- [ ] El pianista
 
 ## Places
 - [x] Bodies
