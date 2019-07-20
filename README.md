@@ -8,7 +8,7 @@
 
 ## Movies
 - [ ] Anabelle 3
-- [ ] The lion King
+- [x] The lion King
 - [ ] La sirenita
 - [ ] La estafa maestra
 - [ ] Ahora son 13
@@ -19,7 +19,7 @@
 - [ ] El que se enamora pierde
 
 ## Places
-- [ ] Bodies
+- [x] Bodies
 - [ ] Cinemateca Distrital
 - [ ] Monserrate
 - [ ] Bolera San Francisco
@@ -33,5 +33,5 @@
 ## To do
 - [ ] Rumba padres (Sebas)
 - [ ] Glamping
-- [ ] Green
+- [x] Grin
 - [ ] Chuz 
