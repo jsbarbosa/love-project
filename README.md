@@ -35,4 +35,4 @@
 - [ ] Rumba padres (Sebas)
 - [ ] Glamping
 - [x] Grin
-- [ ] Chuz 
+- [x] Chuz 
