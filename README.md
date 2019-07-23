@@ -15,7 +15,7 @@
 - [ ] The italian job
 - [x] Spiderman Far from Home
 - [ ] Disney day
-- [ ] Apollo 11
+- [x] Apollo 11
 - [ ] El que se enamora pierde
 - [ ] El pianista
 
