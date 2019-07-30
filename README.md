@@ -3,7 +3,7 @@
 ## Food
 - [ ] Lasagna de Berenjenas
 - [ ] Sushi
-- [ ] Brownies
+- [x] Brownies
 - [ ] Martes de visa
 
 ## Movies
@@ -18,6 +18,7 @@
 - [x] Apollo 11
 - [ ] El que se enamora pierde
 - [ ] El pianista
+- [ ] El sendero de la anaconda
 
 ## Places
 - [x] Bodies
