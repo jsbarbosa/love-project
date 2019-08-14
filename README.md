@@ -34,6 +34,6 @@
 
 ## To do
 - [x] Rumba padres (Sebas)
-- [ ] Glamping (no se puede :()
+- [ ] Glamping (no se puede :( )
 - [x] Grin
 - [x] Chuz 
