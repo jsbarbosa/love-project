@@ -17,8 +17,8 @@
 - [ ] Disney day
 - [x] Apollo 11
 - [ ] El que se enamora pierde
-- [ ] El pianista
-- [ ] El sendero de la anaconda
+- [x] El pianista
+- [x] El sendero de la anaconda
 
 ## Places
 - [x] Bodies
@@ -33,7 +33,7 @@
 - [ ] Camping tend
 
 ## To do
-- [ ] Rumba padres (Sebas)
-- [ ] Glamping
+- [x] Rumba padres (Sebas)
+- [ ] Glamping (no se puede :()
 - [x] Grin
 - [x] Chuz 
