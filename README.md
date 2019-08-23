@@ -4,7 +4,7 @@
 - [ ] Lasagna de Berenjenas
 - [ ] Sushi
 - [x] Brownies
-- [ ] Martes de visa
+- [x] Martes de visa
 
 ## Movies
 - [ ] Anabelle 3
