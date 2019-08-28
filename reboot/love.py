@@ -22,6 +22,6 @@ if __name__ == '__main__':
 
     path = os.path.abspath(__file__)
     path = os.path.join(os.path.dirname(path), "us.mp4")
-    # os.system("firefox %s" % path)
+    path = "file://%s" % path
     webbrowser.open(path)
     sys.exit()
