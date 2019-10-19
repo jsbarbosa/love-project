@@ -37,3 +37,6 @@
 - [ ] Glamping (no se puede :( )
 - [x] Grin
 - [x] Chuz 
+
+# Places
+- [Guaviare](https://www.facebook.com/eltiempo/videos/2494827804139691/)
