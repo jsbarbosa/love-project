@@ -5,6 +5,7 @@
 - [ ] Sushi
 - [x] Brownies
 - [x] Martes de visa
+- [ ] Ir a Crepes Arte-Sano
 
 ## Movies
 - [ ] Anabelle 3
@@ -37,6 +38,8 @@
 - [ ] Glamping (no se puede :( )
 - [x] Grin
 - [x] Chuz 
+- [ ] Movimiento de pompas by Laura
+- [ ] Tomar foto like Gloria y el ñero ese
 
 # Places
 - [Guaviare](https://www.facebook.com/eltiempo/videos/2494827804139691/)
