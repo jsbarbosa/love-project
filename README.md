@@ -6,6 +6,7 @@
 - [x] Brownies
 - [x] Martes de visa
 - [ ] Ir a Crepes Arte-Sano
+- [ ] Comer helado en cápsulas (David)
 
 ## Movies
 - [ ] Anabelle 3
@@ -20,6 +21,7 @@
 - [ ] El que se enamora pierde
 - [x] El pianista
 - [x] El sendero de la anaconda
+- [ ] Maléfica
 
 ## Places
 - [x] Bodies
@@ -40,6 +42,7 @@
 - [x] Chuz 
 - [ ] Movimiento de pompas by Laura
 - [ ] Tomar foto like Gloria y el ñero ese
+- [ ] Montar bici sobre un cable
 
 # Places
 - [Guaviare](https://www.facebook.com/eltiempo/videos/2494827804139691/)
