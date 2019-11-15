@@ -26,7 +26,7 @@
 ## Places
 - [x] Bodies
 - [ ] Cinemateca Distrital
-- [ ] Monserrate
+- [x] Monserrate
 - [ ] Bolera San Francisco
 - [x] Café de la Montaña
 - [ ] La browniseria 
