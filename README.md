@@ -42,7 +42,7 @@
 - [x] Chuz 
 - [ ] Movimiento de pompas by Laura
 - [ ] Tomar foto like Gloria y el ñero ese
-- [ ] Montar bici sobre un cable
+- [ ] Montar bici sobre un cable (Villa de Leyva)
 
 # Places
 - [Guaviare](https://www.facebook.com/eltiempo/videos/2494827804139691/)
