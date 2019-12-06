@@ -22,6 +22,7 @@
 - [x] El pianista
 - [x] El sendero de la anaconda
 - [ ] Maléfica
+- [ ] The imitation game
 
 ## Places
 - [x] Bodies
@@ -33,7 +34,7 @@
 - [ ] Jardín botánico
 
 ## To buy
-- [ ] Camping tend
+- [x] Camping tend
 
 ## To do
 - [x] Rumba padres (Sebas)
