@@ -5,6 +5,8 @@
 - [ ] Sushi
 - [x] Brownies
 - [x] Martes de visa
+- [ ] Ir a Crepes Arte-Sano
+- [ ] Comer helado en cápsulas (David)
 
 ## Movies
 - [ ] Anabelle 3
@@ -23,11 +25,13 @@
 - [ ] El que se enamora pierde
 - [x] El pianista
 - [x] El sendero de la anaconda
+- [ ] Maléfica
+- [ ] The imitation game
 
 ## Places
 - [x] Bodies
 - [ ] Cinemateca Distrital
-- [ ] Monserrate
+- [x] Monserrate
 - [ ] Bolera San Francisco
 - [x] Café de la Montaña
 - [ ] La browniseria 
@@ -41,3 +45,9 @@
 - [ ] Glamping (no se puede :( )
 - [x] Grin
 - [x] Chuz 
+- [ ] Movimiento de pompas by Laura
+- [ ] Tomar foto like Gloria y el ñero ese
+- [ ] Montar bici sobre un cable (Villa de Leyva)
+
+# Places
+- [Guaviare](https://www.facebook.com/eltiempo/videos/2494827804139691/)
