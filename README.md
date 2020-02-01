@@ -12,6 +12,10 @@
 - [ ] La sirenita
 - [ ] La estafa maestra
 - [ ] Ahora son 13
+- [ ] Joker
+- [ ] Once upon a time in Hollywood
+- [ ] La odisea de los Giles
+- [ ] Ford vs Ferrari
 - [ ] The italian job
 - [x] Spiderman Far from Home
 - [ ] Disney day
@@ -27,10 +31,10 @@
 - [ ] Bolera San Francisco
 - [x] Café de la Montaña
 - [ ] La browniseria 
-- [ ] Jardín botánico
+- [x] Jardín botánico
 
 ## To buy
-- [ ] Camping tend
+- [x] Camping tend
 
 ## To do
 - [x] Rumba padres (Sebas)
