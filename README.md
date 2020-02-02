@@ -7,6 +7,11 @@
 - [x] Martes de visa
 - [ ] Ir a Crepes Arte-Sano
 - [ ] Comer helado en cápsulas (David)
+- [ ] Napule
+- [ ] La fábrica 
+- [ ] Pizza (cinemania)
+- [ ] Pizza Chicago
+- [ ] Pizza 93 arriba (Camilo)
 
 ## Movies
 - [ ] Anabelle 3
