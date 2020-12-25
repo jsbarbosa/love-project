@@ -1,16 +1,16 @@
 # The love project
 
 ## Food
-- [ ] Lasagna de Berenjenas
-- [ ] Sushi
+- [X] Lasagna de Berenjenas
+- [X] Sushi
 - [x] Brownies
 - [x] Martes de visa
 - [ ] Ir a Crepes Arte-Sano
-- [ ] Comer helado en cápsulas (David)
+- [X] Comer helado en cápsulas (David)
 - [ ] Napule
 - [ ] La fábrica 
 - [ ] Pizza (cinemania)
-- [ ] Pizza Chicago
+- [X] Pizza Chicago
 - [ ] Pizza 93 arriba (Camilo)
 
 ## Movies
@@ -19,7 +19,7 @@
 - [ ] La sirenita
 - [ ] La estafa maestra
 - [ ] Ahora son 13
-- [ ] Joker
+- [X] Joker
 - [ ] Once upon a time in Hollywood
 - [ ] La odisea de los Giles
 - [ ] Ford vs Ferrari
@@ -35,9 +35,9 @@
 
 ## Places
 - [x] Bodies
-- [ ] Cinemateca Distrital
+- [X] Cinemateca Distrital
 - [x] Monserrate
-- [ ] Bolera San Francisco
+- [X] Bolera San Francisco
 - [x] Café de la Montaña
 - [ ] La browniseria 
 - [x] Jardín botánico
@@ -53,6 +53,9 @@
 - [ ] Movimiento de pompas by Laura
 - [ ] Tomar foto like Gloria y el ñero ese
 - [ ] Montar bici sobre un cable (Villa de Leyva)
+
+## Faces Video
+Images are hosted in [OwnCloud](http://192.168.0.99:1004/index.php/apps/files/?dir=/Documents/LoveProject/video)
 
 # Places
 - [Guaviare](https://www.facebook.com/eltiempo/videos/2494827804139691/)
